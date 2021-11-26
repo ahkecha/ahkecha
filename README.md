@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👀, I'm Amine</h1>
 
+[![ahkecha's 42 stats](https://badge42.herokuapp.com/api/stats/ahkecha?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akecha&label=Profile%20views&color=0e75b6&style=flat" alt="akecha" /> </p>
 
 <h3 align="left">Connect with me:</h3>
