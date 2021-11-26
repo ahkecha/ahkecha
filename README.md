@@ -4,7 +4,7 @@
 
 
 
-[![ahkecha's 42 stats](https://badge42.herokuapp.com/api/stats/ahkecha?privacyEmail=false)](https://github.com/JaeSeoKim/badge42)
+[![ahkecha's 42 stats](https://badge42.herokuapp.com/api/stats/ahkecha?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 
 <h3 align="left">Connect with me:</h3>
