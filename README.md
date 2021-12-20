@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akecha&label=Profile%20views&color=0e75b6&style=flat" alt="akecha" /> </p>
 
-<script src="https://www.hackthebox.eu/badge/222388"> Badge</script>
 
 
 
