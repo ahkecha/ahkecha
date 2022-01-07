@@ -23,7 +23,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-![akecha's GitHub stats](https://github-readme-stats.vercel.app/api?username=akecha&show_icons=true&theme=tokyonight) ![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akecha&theme=tokyonight)
+![akecha's GitHub stats](https://github-readme-stats.vercel.app/api?username=akecha&show_icons=true&theme=tokyonight&count_private=true) ![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akecha&theme=tokyonight)
 
 
 <h3 align="left">Support:</h3>
