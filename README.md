@@ -1,5 +1,5 @@
 <!-- <div>
-<img align="left" width="390" alt="🦑" src="github-metrics.svg">
+<img align="left" width="390" alt="" src="github-metrics.svg">
 </div>
  -->
 <img align="left" alt="🦑" src="github-metrics.svg">
